@@ -103,6 +103,7 @@ function checkColumn(array, number, i, j)
   return true;
 }
 
+//not finished
 function checkBox(array, number, i, j)
 {
   return true;
